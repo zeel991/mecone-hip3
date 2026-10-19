@@ -1,0 +1,1188 @@
+{
+ "as_of": "2026-10-19 23:48 UTC",
+ "indices": [
+  {
+   "symbol": "MOAI",
+   "name": "OpenAI",
+   "category": "Companies",
+   "unit": "$",
+   "value": 1090220762785.74,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1922,
+   "max_intraday_move_pct": 3.0626502343688355,
+   "max_intraday_move_last_month_pct": 2.2068089556225523,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 0.6778315617917086,
+   "p99_5m_step_pct": 0.42983261745578466,
+   "worst_catch_up_s": 3.0,
+   "top_5m_steps": [
+    [
+     "2026-10-15 15:50:00+00:00",
+     0.6778315617917086
+    ],
+    [
+     "2026-10-15 15:45:00+00:00",
+     -0.6663846960982989
+    ],
+    [
+     "2026-10-15 14:30:00+00:00",
+     0.6136881793363358
+    ]
+   ],
+   "gaps_over_15m": 7,
+   "longest_gap_min": 30.0,
+   "flat_stretches": 30,
+   "longest_flat_h": 3.0,
+   "ann_vol_pct": 16.68056074833772,
+   "q999_24h_move_pct": 2.208494791404723,
+   "suggested_max_leverage": 10,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.0,
+    "10": 0.0,
+    "20": 0.011188811188811189
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     522364.13
+    ]
+   ],
+   "source_volume_usd": 522364.13,
+   "thin_source": false,
+   "suggested_margin_mode": "normal (cross allowed)",
+   "cross_margin_reason": "0.0 days a month with 50%+ moves over 70 days, and source markets above $100K lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": "fresh",
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 7,
+    "max_gap_pct": 0.0
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 7,
+    "max_gap_pct": 0.0
+   }
+  },
+  {
+   "symbol": "MANTH",
+   "name": "Anthropic",
+   "category": "Companies",
+   "unit": "$",
+   "value": 1761535977837.01,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1913,
+   "max_intraday_move_pct": 8.070300860305956,
+   "max_intraday_move_last_month_pct": 4.821543954373353,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 4.884401231230373,
+   "p99_5m_step_pct": 2.1393410467410754,
+   "worst_catch_up_s": 15.0,
+   "top_5m_steps": [
+    [
+     "2026-10-18 00:35:00+00:00",
+     4.884401231230373
+    ],
+    [
+     "2026-10-18 00:25:00+00:00",
+     4.826557062030679
+    ],
+    [
+     "2026-10-18 00:30:00+00:00",
+     -4.726488231407311
+    ]
+   ],
+   "gaps_over_15m": 7,
+   "longest_gap_min": 40.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 49.42827714983265,
+   "q999_24h_move_pct": 4.487080563062816,
+   "suggested_max_leverage": 5,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.05244755244755245,
+    "10": 0.2111888111888112,
+    "20": 0.5328671328671328
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     3039209.51
+    ]
+   ],
+   "source_volume_usd": 3039209.51,
+   "thin_source": false,
+   "suggested_margin_mode": "normal (cross allowed)",
+   "cross_margin_reason": "0.0 days a month with 50%+ moves over 70 days, and source markets above $100K lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": "fresh",
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 93,
+    "max_catch_up_s": 12.0,
+    "halts": 7,
+    "max_gap_pct": 3.9344856762963953
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 34,
+    "max_catch_up_s": 12.0,
+    "halts": 7,
+    "max_gap_pct": 3.60126764621147
+   }
+  },
+  {
+   "symbol": "MH100",
+   "name": "H100 rental $/hr (end-July)",
+   "category": "AI",
+   "unit": "$/hr",
+   "value": 2.69592696629213,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1969,
+   "max_intraday_move_pct": 7.938160067841348,
+   "max_intraday_move_last_month_pct": 6.884822202668728,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 3.3389144186315223,
+   "p99_5m_step_pct": 1.199267586174568,
+   "worst_catch_up_s": 12.0,
+   "top_5m_steps": [
+    [
+     "2026-10-14 20:10:00+00:00",
+     -3.3389144186315223
+    ],
+    [
+     "2026-10-14 21:40:00+00:00",
+     2.9647076240124637
+    ],
+    [
+     "2026-10-14 05:55:00+00:00",
+     -2.3809923529185983
+    ]
+   ],
+   "gaps_over_15m": 0,
+   "longest_gap_min": 0.0,
+   "flat_stretches": 4,
+   "longest_flat_h": 4.666666666666667,
+   "ann_vol_pct": 60.555553417342345,
+   "q999_24h_move_pct": 6.110212649690372,
+   "suggested_max_leverage": 5,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.015277777777777777,
+    "10": 0.1951388888888889,
+    "20": 0.55
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     37809.24
+    ]
+   ],
+   "source_volume_usd": 37809.24,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $37,809 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 39,
+    "max_catch_up_s": 9.0,
+    "halts": 0,
+    "max_gap_pct": 2.4217614201545556
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 25,
+    "max_catch_up_s": 9.0,
+    "halts": 0,
+    "max_gap_pct": 2.058632915252945
+   }
+  },
+  {
+   "symbol": "MH200",
+   "name": "H200 rental $/hr (end-July)",
+   "category": "AI",
+   "unit": "$/hr",
+   "value": 5.31947743467934,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1968,
+   "max_intraday_move_pct": 16.191427370497845,
+   "max_intraday_move_last_month_pct": 16.191427370497845,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 1.4693054158483543,
+   "p99_5m_step_pct": 0.42895244732440097,
+   "worst_catch_up_s": 6.0,
+   "top_5m_steps": [
+    [
+     "2026-10-15 10:15:00+00:00",
+     1.4693054158483543
+    ],
+    [
+     "2026-10-14 12:35:00+00:00",
+     1.4124334014570472
+    ],
+    [
+     "2026-10-19 07:05:00+00:00",
+     -1.1979174823733119
+    ]
+   ],
+   "gaps_over_15m": 0,
+   "longest_gap_min": 0.0,
+   "flat_stretches": 7,
+   "longest_flat_h": 5.416666666666667,
+   "ann_vol_pct": 66.2442390821759,
+   "q999_24h_move_pct": 15.679121512714515,
+   "suggested_max_leverage": 2,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.03194444444444444,
+    "5": 0.12152777777777778,
+    "10": 0.3472222222222222,
+    "20": 0.5333333333333333
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     59336.63
+    ]
+   ],
+   "source_volume_usd": 59336.63,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $59,337 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 3,
+    "max_catch_up_s": 3.0,
+    "halts": 0,
+    "max_gap_pct": 0.4834333320594575
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 3,
+    "max_catch_up_s": 3.0,
+    "halts": 0,
+    "max_gap_pct": 0.4834333320594575
+   }
+  },
+  {
+   "symbol": "MB200",
+   "name": "B200 rental $/hr (end-July)",
+   "category": "AI",
+   "unit": "$/hr",
+   "value": 6.44243096646943,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1969,
+   "max_intraday_move_pct": 14.311127330150985,
+   "max_intraday_move_last_month_pct": 14.311127330150985,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 0.542377274315542,
+   "p99_5m_step_pct": 0.09048581692333187,
+   "worst_catch_up_s": 3.0,
+   "top_5m_steps": [
+    [
+     "2026-10-17 07:50:00+00:00",
+     0.542377274315542
+    ],
+    [
+     "2026-10-13 11:15:00+00:00",
+     0.4059372749098511
+    ],
+    [
+     "2026-10-13 13:40:00+00:00",
+     -0.30885915082273785
+    ]
+   ],
+   "gaps_over_15m": 0,
+   "longest_gap_min": 0.0,
+   "flat_stretches": 22,
+   "longest_flat_h": 8.916666666666666,
+   "ann_vol_pct": 55.02242289135396,
+   "q999_24h_move_pct": 14.171656925931092,
+   "suggested_max_leverage": 2,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.11666666666666667,
+    "10": 0.15416666666666667,
+    "20": 0.18194444444444444
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     45964.77
+    ]
+   ],
+   "source_volume_usd": 45964.77,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $45,965 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 0,
+    "max_gap_pct": 0.0
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 0,
+    "max_gap_pct": 0.0
+   }
+  },
+  {
+   "symbol": "MGDP",
+   "name": "GDP growth",
+   "category": "Economy",
+   "unit": "%",
+   "value": 2.6713881180837,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1947,
+   "max_intraday_move_pct": 4.426465693228055,
+   "max_intraday_move_last_month_pct": 4.109753317726517,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 2.3230431751261493,
+   "p99_5m_step_pct": 1.1132434144674719,
+   "worst_catch_up_s": 9.0,
+   "top_5m_steps": [
+    [
+     "2026-10-13 03:00:00+00:00",
+     -2.3230431751261493
+    ],
+    [
+     "2026-10-18 18:25:00+00:00",
+     2.2171336884904136
+    ],
+    [
+     "2026-10-18 18:20:00+00:00",
+     -2.148298365772816
+    ]
+   ],
+   "gaps_over_15m": 3,
+   "longest_gap_min": 40.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 52.62260212849515,
+   "q999_24h_move_pct": 4.755451489723575,
+   "suggested_max_leverage": 5,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.0006993006993006993,
+    "10": 0.25944055944055944,
+    "20": 0.5132867132867133
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     61305.3324
+    ]
+   ],
+   "source_volume_usd": 61305.3324,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $61,305 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 31,
+    "max_catch_up_s": 6.0,
+    "halts": 3,
+    "max_gap_pct": 1.3719081628535745
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 10,
+    "max_catch_up_s": 6.0,
+    "halts": 3,
+    "max_gap_pct": 1.3719081628535745
+   }
+  },
+  {
+   "symbol": "MCPI",
+   "name": "CPI inflation YoY",
+   "category": "Economy",
+   "unit": "%",
+   "value": 3.7029952790538,
+   "history_start": "2026-08-11",
+   "days_daily": 70,
+   "days_hourly": 70,
+   "points_5m": 1920,
+   "max_intraday_move_pct": 1.6187309228867353,
+   "max_intraday_move_last_month_pct": 1.6187309228867353,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 1.9767583903881336,
+   "p99_5m_step_pct": 0.2756252031172501,
+   "worst_catch_up_s": 6.0,
+   "top_5m_steps": [
+    [
+     "2026-10-14 12:35:00+00:00",
+     1.9767583903881336
+    ],
+    [
+     "2026-10-13 18:10:00+00:00",
+     0.2960311655777703
+    ],
+    [
+     "2026-10-13 03:30:00+00:00",
+     0.29027259894309765
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 250.0,
+   "flat_stretches": 1,
+   "longest_flat_h": 27.416666666666668,
+   "ann_vol_pct": 8.259925259853224,
+   "q999_24h_move_pct": 1.8550454100600098,
+   "suggested_max_leverage": 10,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.0,
+    "10": 0.0,
+    "20": 0.05299860529986053
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     17524.0523
+    ]
+   ],
+   "source_volume_usd": 17524.0523,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $17,524 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 1,
+    "max_catch_up_s": 3.0,
+    "halts": 1,
+    "max_gap_pct": 0.9756756756756801
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 1,
+    "max_catch_up_s": 3.0,
+    "halts": 1,
+    "max_gap_pct": 0.7459459459459472
+   }
+  },
+  {
+   "symbol": "MUNEMP",
+   "name": "Unemployment rate",
+   "category": "Economy",
+   "unit": "%",
+   "value": 4.19364262170165,
+   "history_start": "2026-08-12",
+   "days_daily": 69,
+   "days_hourly": 69,
+   "points_5m": 1961,
+   "max_intraday_move_pct": 2.085619324464494,
+   "max_intraday_move_last_month_pct": 2.085619324464494,
+   "days_over_25pct": 0,
+   "days_over_50pct": 0,
+   "one_print_spikes": 0,
+   "spike_examples": [],
+   "over_50pct_per_month": 0.0,
+   "biggest_5m_step_pct": 0.052862071063941585,
+   "p99_5m_step_pct": 0.021776250514911766,
+   "worst_catch_up_s": 3.0,
+   "top_5m_steps": [
+    [
+     "2026-10-19 14:05:00+00:00",
+     0.052862071063941585
+    ],
+    [
+     "2026-10-19 11:10:00+00:00",
+     0.04718675697479302
+    ],
+    [
+     "2026-10-19 22:40:00+00:00",
+     0.04280325599772539
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 20.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 8.217481574289858,
+   "q999_24h_move_pct": 2.372285312936575,
+   "suggested_max_leverage": 10,
+   "liq_rate_7d": {
+    "2": 0.0,
+    "3": 0.0,
+    "5": 0.0,
+    "10": 0.0,
+    "20": 0.0006993006993006993
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     15693.1773
+    ]
+   ],
+   "source_volume_usd": 15693.1773,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "source markets total $15,693 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 1,
+    "max_gap_pct": 0.0
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 0,
+    "max_catch_up_s": 0.0,
+    "halts": 1,
+    "max_gap_pct": 0.0
+   }
+  },
+  {
+   "symbol": "MBRIV",
+   "name": "Brazil Volatility Index",
+   "category": "Emerging Market Vol",
+   "unit": "pts",
+   "value": 39.714269480787,
+   "history_start": "2025-10-19",
+   "days_daily": 365,
+   "days_hourly": 365,
+   "points_5m": 2013,
+   "max_intraday_move_pct": 99.2555020444116,
+   "max_intraday_move_last_month_pct": 62.75615689579899,
+   "days_over_25pct": 145,
+   "days_over_50pct": 29,
+   "one_print_spikes": 63,
+   "spike_examples": [
+    [
+     "2026-10-14 16:35:00+00:00",
+     12.946307616493646,
+     -9.175077673686161
+    ],
+    [
+     "2026-10-17 02:10:00+00:00",
+     11.16122844772487,
+     -7.233172960353773
+    ],
+    [
+     "2026-10-19 23:30:00+00:00",
+     10.910749813342102,
+     -8.889056703399723
+    ]
+   ],
+   "over_50pct_per_month": 2.3835616438356166,
+   "biggest_5m_step_pct": 14.645745105802789,
+   "p99_5m_step_pct": 8.47143911545632,
+   "worst_catch_up_s": 42.0,
+   "top_5m_steps": [
+    [
+     "2026-10-18 09:40:00+00:00",
+     -14.645745105802789
+    ],
+    [
+     "2026-10-14 16:35:00+00:00",
+     12.946307616493646
+    ],
+    [
+     "2026-10-14 12:45:00+00:00",
+     11.448904564262508
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 25.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 353.27439594236546,
+   "q999_24h_move_pct": 52.75318800365672,
+   "suggested_max_leverage": 1,
+   "liq_rate_7d": {
+    "2": 0.4777158774373259,
+    "3": 0.6580779944289693,
+    "5": 0.7771587743732591,
+    "10": 0.8844011142061281,
+    "20": 0.9240947075208914
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     4040499.8280080003
+    ]
+   ],
+   "source_volume_usd": 4040499.8280080003,
+   "thin_source": false,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "2.4 days a month with 50%+ moves",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 2302,
+    "max_catch_up_s": 45.0,
+    "halts": 1,
+    "max_gap_pct": 16.012629679747413
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 820,
+    "max_catch_up_s": 45.0,
+    "halts": 1,
+    "max_gap_pct": 15.584122688317548
+   }
+  },
+  {
+   "symbol": "MMXIV",
+   "name": "Mexico Volatility Index",
+   "category": "Emerging Market Vol",
+   "unit": "pts",
+   "value": 21.426810533014,
+   "history_start": "2025-10-19",
+   "days_daily": 364,
+   "days_hourly": 364,
+   "points_5m": 2013,
+   "max_intraday_move_pct": 302.9991509981806,
+   "max_intraday_move_last_month_pct": 148.14236185926606,
+   "days_over_25pct": 251,
+   "days_over_50pct": 101,
+   "one_print_spikes": 89,
+   "spike_examples": [
+    [
+     "2026-10-19 00:50:00+00:00",
+     33.71640825510944,
+     -25.827957541209333
+    ],
+    [
+     "2026-10-19 03:30:00+00:00",
+     30.799141277071396,
+     -26.25653848385148
+    ],
+    [
+     "2026-10-19 05:20:00+00:00",
+     27.701792118721215,
+     -22.7567573884357
+    ]
+   ],
+   "over_50pct_per_month": 8.324175824175825,
+   "biggest_5m_step_pct": 33.71640825510944,
+   "p99_5m_step_pct": 18.87316904494896,
+   "worst_catch_up_s": 90.0,
+   "top_5m_steps": [
+    [
+     "2026-10-19 00:50:00+00:00",
+     33.71640825510944
+    ],
+    [
+     "2026-10-19 03:30:00+00:00",
+     30.799141277071396
+    ],
+    [
+     "2026-10-19 19:45:00+00:00",
+     29.682768197234523
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 25.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 754.3880770361558,
+   "q999_24h_move_pct": 118.12307273453008,
+   "suggested_max_leverage": 1,
+   "liq_rate_7d": {
+    "2": 0.8741209563994374,
+    "3": 0.9444444444444444,
+    "5": 0.9634317862165963,
+    "10": 0.9781997187060478,
+    "20": 0.9824191279887482
+   },
+   "source_venues": [
+    [
+     "Polymarket",
+     33195.094817
+    ]
+   ],
+   "source_volume_usd": 33195.094817,
+   "thin_source": true,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "8.3 days a month with 50%+ moves; source markets total $33,195 lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 2632,
+    "max_catch_up_s": 84.0,
+    "halts": 9,
+    "max_gap_pct": 31.217545777534838
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 913,
+    "max_catch_up_s": 51.0,
+    "halts": 4,
+    "max_gap_pct": 17.728435247616826
+   }
+  },
+  {
+   "symbol": "MARGIV",
+   "name": "Argentina Volatility Index",
+   "category": "Emerging Market Vol",
+   "unit": "pts",
+   "value": 36.348945216085,
+   "history_start": "2025-10-19",
+   "days_daily": 359,
+   "days_hourly": 359,
+   "points_5m": 2013,
+   "max_intraday_move_pct": 321.9898602898741,
+   "max_intraday_move_last_month_pct": 111.39875274960112,
+   "days_over_25pct": 240,
+   "days_over_50pct": 97,
+   "one_print_spikes": 52,
+   "spike_examples": [
+    [
+     "2026-10-15 07:50:00+00:00",
+     18.78430426501385,
+     -14.55174037003787
+    ],
+    [
+     "2026-10-13 11:20:00+00:00",
+     16.94354506524316,
+     -15.648004563994933
+    ],
+    [
+     "2026-10-15 18:30:00+00:00",
+     12.834079189871272,
+     -10.02002304337667
+    ]
+   ],
+   "over_50pct_per_month": 8.1058495821727,
+   "biggest_5m_step_pct": 19.288718530872107,
+   "p99_5m_step_pct": 10.26894917672526,
+   "worst_catch_up_s": 54.0,
+   "top_5m_steps": [
+    [
+     "2026-10-19 15:10:00+00:00",
+     19.288718530872107
+    ],
+    [
+     "2026-10-15 07:50:00+00:00",
+     18.78430426501385
+    ],
+    [
+     "2026-10-15 09:00:00+00:00",
+     17.38239803594608
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 25.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 481.7746680195365,
+   "q999_24h_move_pct": 90.261318115119,
+   "suggested_max_leverage": 1,
+   "liq_rate_7d": {
+    "2": 0.7465277777777778,
+    "3": 0.8618055555555556,
+    "5": 0.9333333333333333,
+    "10": 0.9666666666666667,
+    "20": 0.9770833333333333
+   },
+   "source_venues": [
+    [
+     "Kalshi",
+     7464.0199999999995
+    ],
+    [
+     "Polymarket",
+     727265.8375189999
+    ]
+   ],
+   "source_volume_usd": 734729.857519,
+   "thin_source": false,
+   "suggested_margin_mode": "noCross (isolated only)",
+   "cross_margin_reason": "8.1 days a month with 50%+ moves",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 1813,
+    "max_catch_up_s": 51.0,
+    "halts": 6,
+    "max_gap_pct": 17.368238957444348
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 627,
+    "max_catch_up_s": 42.0,
+    "halts": 3,
+    "max_gap_pct": 14.210526315789496
+   }
+  },
+  {
+   "symbol": "MCHNIV",
+   "name": "China Volatility Index",
+   "category": "Emerging Market Vol",
+   "unit": "pts",
+   "value": 31.7185679651,
+   "history_start": "2025-10-19",
+   "days_daily": 366,
+   "days_hourly": 366,
+   "points_5m": 2013,
+   "max_intraday_move_pct": 143.85131041987594,
+   "max_intraday_move_last_month_pct": 51.317535802252955,
+   "days_over_25pct": 48,
+   "days_over_50pct": 5,
+   "one_print_spikes": 32,
+   "spike_examples": [
+    [
+     "2026-10-17 09:05:00+00:00",
+     10.391957212589741,
+     -9.52865374612023
+    ],
+    [
+     "2026-10-17 08:45:00+00:00",
+     10.380212807549505,
+     -9.496579769431124
+    ],
+    [
+     "2026-10-18 12:00:00+00:00",
+     10.317565812486173,
+     -10.4121007214537
+    ]
+   ],
+   "over_50pct_per_month": 0.4098360655737705,
+   "biggest_5m_step_pct": 10.4121007214537,
+   "p99_5m_step_pct": 7.231212041061376,
+   "worst_catch_up_s": 30.0,
+   "top_5m_steps": [
+    [
+     "2026-10-18 12:05:00+00:00",
+     -10.4121007214537
+    ],
+    [
+     "2026-10-17 09:05:00+00:00",
+     10.391957212589741
+    ],
+    [
+     "2026-10-17 08:45:00+00:00",
+     10.380212807549505
+    ]
+   ],
+   "gaps_over_15m": 1,
+   "longest_gap_min": 25.0,
+   "flat_stretches": 0,
+   "longest_flat_h": 0.0,
+   "ann_vol_pct": 286.4243563466391,
+   "q999_24h_move_pct": 49.02800208763445,
+   "suggested_max_leverage": 1,
+   "liq_rate_7d": {
+    "2": 0.34444444444444444,
+    "3": 0.5923611111111111,
+    "5": 0.8326388888888889,
+    "10": 0.9472222222222222,
+    "20": 0.9763888888888889
+   },
+   "source_venues": [
+    [
+     "Kalshi",
+     16813.850000000002
+    ],
+    [
+     "Polymarket",
+     68162474.16974299
+    ]
+   ],
+   "source_volume_usd": 68179288.01974298,
+   "thin_source": false,
+   "suggested_margin_mode": "normal (cross allowed)",
+   "cross_margin_reason": "0.4 days a month with 50%+ moves over 366 days, and source markets above $100K lifetime volume",
+   "oracle_eligible": true,
+   "freshness_state": null,
+   "replay_raw": {
+    "ticks": 201701,
+    "lagging_ticks": 1441,
+    "max_catch_up_s": 33.0,
+    "halts": 1,
+    "max_gap_pct": 10.506249283339052
+   },
+   "replay_median3": {
+    "ticks": 201701,
+    "lagging_ticks": 353,
+    "max_catch_up_s": 24.0,
+    "halts": 1,
+    "max_gap_pct": 7.203893697630059
+   }
+  }
+ ],
+ "hyperliquid": {
+  "dexes": [
+   {
+    "name": "xyz",
+    "fullName": "XYZ"
+   },
+   {
+    "name": "flx",
+    "fullName": "Felix Exchange"
+   },
+   {
+    "name": "vntl",
+    "fullName": "Ventuals"
+   },
+   {
+    "name": "hyna",
+    "fullName": "HyENA"
+   },
+   {
+    "name": "km",
+    "fullName": "Markets by Kinetiq"
+   },
+   {
+    "name": "abcd",
+    "fullName": "ABCDEx"
+   },
+   {
+    "name": "cash",
+    "fullName": "dreamcash"
+   },
+   {
+    "name": "para",
+    "fullName": "Paragon"
+   },
+   {
+    "name": "mkts",
+    "fullName": "Markets By Kinetiq"
+   },
+   {
+    "name": "io",
+    "fullName": "EntropyIO"
+   }
+  ],
+  "vntl": [
+   {
+    "coin": "vntl:SPACEX",
+    "oracle": 2417.0,
+    "mark": 2109.5,
+    "gap_pct": -12.722383119569713,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 3,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:OPENAI",
+    "oracle": 1341.8,
+    "mark": 1336.2,
+    "gap_pct": -0.4173498285884536,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 3,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:ANTHROPIC",
+    "oracle": 1618.9,
+    "mark": 1619.3,
+    "gap_pct": 0.024708135153495014,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 3,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:MAG7",
+    "oracle": 65.52,
+    "mark": 63.661,
+    "gap_pct": -2.837301587301577,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:SEMIS",
+    "oracle": 659.88,
+    "mark": 661.1,
+    "gap_pct": 0.18488209977571834,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:ROBOT",
+    "oracle": 38.37,
+    "mark": 38.317,
+    "gap_pct": -0.138128746416466,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:INFOTECH",
+    "oracle": 191.26,
+    "mark": 191.3,
+    "gap_pct": 0.020913939140454474,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:NUCLEAR",
+    "oracle": 126.76,
+    "mark": 128.05,
+    "gap_pct": 1.017671189649727,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:DEFENSE",
+    "oracle": 62.32,
+    "mark": 62.011,
+    "gap_pct": -0.4958279845956315,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:ENERGY",
+    "oracle": 53.76,
+    "mark": 54.599,
+    "gap_pct": 1.5606398809523858,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:BIOTECH",
+    "oracle": 140.63,
+    "mark": 140.88,
+    "gap_pct": 0.17777145701485253,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:GOLDJM",
+    "oracle": 124.0,
+    "mark": 124.0,
+    "gap_pct": 0.0,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:SILVERJM",
+    "oracle": 31.5,
+    "mark": 31.5,
+    "gap_pct": 0.0,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 20,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:WHEAT",
+    "oracle": 613.38,
+    "mark": 611.42,
+    "gap_pct": -0.31954090449640704,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 10,
+    "delisted": true
+   },
+   {
+    "coin": "vntl:SOY",
+    "oracle": 1141.9,
+    "mark": 1142.3,
+    "gap_pct": 0.03502933706978073,
+    "open_interest": 0.0,
+    "day_volume_usd": 0.0,
+    "funding_1h": 0.0,
+    "max_leverage": 10,
+    "delisted": true
+   }
+  ]
+ }
+}
